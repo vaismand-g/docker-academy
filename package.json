@@ -1,0 +1,22 @@
+{
+  "name": "homero-nodeapp",
+  "version": "1.0.0",
+  "description": "A Hello World example with HTTP server using Node JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HomeroVT/jenkins-pipeline"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "homero.valdovinos@globant.com",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
+}
